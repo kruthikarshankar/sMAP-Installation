@@ -1,3 +1,4 @@
+-----------------------------------------------------------------------------------------------------------------
 The procedure is reasonably explained in the sMAP website, but for a few more requirements. I am just giving a list of commands to use here. Just go with this step by step and you should get sMAP installed in a breeze.
 
 Ubuntu 13.10 and 14.04 users: I have tried to cover most of the issues from my installation, but I still seem to find a few errors because of version differences. 
